@@ -50,7 +50,7 @@ input{
     border: none;
     text-transform: uppercase;
     color:#fff;
-    background-color:blue;
+    background-color:red;
     margin-top: 4rem;
 }
 #submit:hover{
