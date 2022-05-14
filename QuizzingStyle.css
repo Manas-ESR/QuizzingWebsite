@@ -20,7 +20,7 @@ html{
 }
 .inner-div{
 
-    width: 70vw;
+    width: 80vw;
     background-color: #fff;
     padding: 3rem 8rem;
     box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.5);
@@ -59,8 +59,8 @@ input{
 }
 #ShowScore{
     background-color: #dfe6e9;
-    margin-top: 3rem;
-    padding: 3rem 4rem;
+    margin-top: 4rem;
+    padding: 5rem 7rem;
     box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.5);
 
 }
